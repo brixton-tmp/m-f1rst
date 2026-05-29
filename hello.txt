@@ -1,2 +1,3 @@
 this is GNU nano 9.0 test channel
 nano 9.0 9.0 GNU nano, nano 9.0
+ohayo sekaii
